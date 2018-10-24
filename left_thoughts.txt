@@ -1,0 +1,4 @@
+Create a snippet TODAY, BUG to fill a header of a journal entry
+
+Fixing every python opensource library to be more efficient with searching a
+subimage in image. Anton told something about hashes, needles and haystack.

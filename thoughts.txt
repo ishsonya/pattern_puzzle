@@ -1,0 +1,4 @@
+adding beep
+sudo apt-get install sox
+
+os.system('play --no-show-progress --null --channels 1 synth 0.1 sine 400')

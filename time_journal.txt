@@ -1,0 +1,32 @@
+Core
+2h
+
+2018-10-23T11:07:06.838Z
+Made timestamps.
+1h
+
+2018-10-23T11:47:16.918Z
+Get images of digits.
+20m
+
+2018-10-23T13:20:39.627Z
+Get top left grid point and square size.
+30m
+
+2018-10-23T15:08:29.274Z
+Get images of column and row numbers.
+1h 40m
+
+2018-10-23T21:35:01.116Z
+Split clue rows and columns so we parse one number at a time.
+2h
+
+2018-10-23T23:22:14.258Z
+Le finale.
+Filling the pattern automatically and making all the parts work together.
+1h 20m
+
+2018-10-23T23:46:28.770Z
+Victory lap
+Timing, pretty output
+20m

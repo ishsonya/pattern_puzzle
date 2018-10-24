@@ -1,0 +1,43 @@
+BUG
+In lines 66, 67 (for c in range(n): row__col___color[c][idx] = new_col[c]) had a typo
+new_col[idx] which filled the whole column with invalid values.
+Time to fix: 20 minutes
+
+BUG
+2018-10-23T12:27:56.995Z
+Needed to install xlib for pyautogui
+sudo pip install xlib
+
+BUG
+2018-10-23T12:27:59.099Z
+Needed to install scrot for pyautogui (to make screenshots)
+sudo apt-get install scrot
+
+BUG
+2018-10-23T12:31:08.721Z
+Digits change if you change gamemod (size of field) or change window size.
+Plan:
+1) get size of single square from a user click
+2) get text recognition (from pytesseract atm)
+tesseract working fine
+3) cut lines with numbers for each row and column
+4) recognize numbers with tesseract
+TODO
+
+ISSUE
+needed to install tesseract for pytesseract
+https://github.com/tesseract-ocr/tesseract/wiki
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
+
+BUG
+2018-10-23T21:36:19.499Z
+Tesseract doesn't recognize digit 8
+(common issues recognize 4 as a, recognize 8 as a)
+Anton changed a parameter in config to 10 and it worked.
+Time to fix: 10m
+
+BUG
+2018-10-23T22:47:13.818Z
+| | | weed
+Time to fix: 10m
